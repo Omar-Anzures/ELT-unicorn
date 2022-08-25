@@ -1,1 +1,1 @@
-# Proceso ELT.
+# Proceso ETL.
